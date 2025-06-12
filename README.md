@@ -103,7 +103,7 @@ MIT License. Build, remix, and walk your coffee table into the future.
 
 ---
 
-## 👷 Made by Kevin | Concept Bytes
+## 👷 Made by Concept Bytes
 
 Follow along at [YouTube](https://youtube.com/@conceptbytes) and join the engineering chaos.
 
