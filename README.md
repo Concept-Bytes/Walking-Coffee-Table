@@ -91,12 +91,6 @@ This sensor allows for accurate tracking of multiple moving objects and is robus
 
 ---
 
-## 📸 Media
-
-> Include demo videos or gifs here once uploaded!
-
----
-
 ## 📜 License
 
 MIT License. Build, remix, and walk your coffee table into the future.
